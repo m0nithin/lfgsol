@@ -521,7 +521,7 @@ iframe {
 
 .intro {
     background-image: url(/bg.png);
-    background-size: contain;
+    background-size: cover;
     background-position: center;
     margin-bottom: -15vmin
 }
